@@ -1,0 +1,42 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio / IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Android Studio Navigation editor temp files
+.idea/navEditor.xml
+
+# Android Studio Captures folder
+captures/
+
+# Built-in Android Studio profiling tools
+*.hprof
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Keystore files
+# If you want to keep your keystore in the repository, comment out the lines below.
+*.jks
+*.keystore
+*.p12
+
+# Google Services client library config file
+google-services.json
+
+# NDK
+.externalNativeBuild
+.cxx
+
+# Secrets
+secrets.properties
